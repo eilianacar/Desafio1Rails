@@ -1,0 +1,16 @@
+.navbar-pink {
+    background-color: pink;
+    /* Agrega aquí otros estilos personalizados */
+  }
+
+  .body {
+    background-color: #FFECEE;
+  }
+
+  .navbar-personalizado{
+    background-color:#291F44;
+  }
+
+  .navbar-personalizado .nav-link {
+    color: rgb(241, 241, 241);
+  }
